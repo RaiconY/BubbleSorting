@@ -1,6 +1,6 @@
 using System;
 
-namespace Пузырьковая_сортировка
+namespace Bubble_Sorting
 {
     class Bubble_Sorting
     {
